@@ -7,7 +7,7 @@ Esta é uma implementação do clássico jogo da Serpente desenvolvido em HTML, 
 * O jogo termina quando a cobra colide com as paredes ou com seu próprio corpo.
 
 # Como Executar o Jogo
-Para executar o jogo, basta abrir o arquivo *index.html* em seu navegador da web, ou acesse o [Replit](https://replit.com/@humbertofarrapo/JogoSerpente#index.html).
+Para executar o jogo, basta abrir o arquivo *index.html* em seu navegador da web, ou acesse o [Replit](https://replit.com/@humbertofarrapo/snake_game#index.html).
 
 # Screenshot do Jogo
-![serpente](https://github.com/humbertofarrapo/serpente/assets/105745727/a6c7bcb6-29fd-4ea8-950c-b012f12b577d)
+![serpente](https://github.com/humbertofarrapo/jogo-serpente/assets/105745727/44edc821-f18b-47c1-93db-992e7bad929a)
